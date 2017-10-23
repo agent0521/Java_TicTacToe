@@ -1,4 +1,4 @@
-# Java_TicTacToe
+# Tic Tac Toe
 
 Welcome to my Tic Tac Toe Game and Chat Program!
 
