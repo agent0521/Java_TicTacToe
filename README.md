@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# TicTac Toe: Chat and Play
 
-Welcome to my Tic Tac Toe Game and Chat Program!
+Welcome to my Tic Tac Toe Game and Chat Program made possible using JAVA
 
 ## Please do the following instructions below:
 1. Extract the folder and open it.  
