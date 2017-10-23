@@ -42,7 +42,7 @@ Welcome to my Tic Tac Toe Game and Chat Program made possible using JAVA
 
 ## Another way:
 
-1. 1.Extract the folder and open it.
+1. Extract the folder and open it.
 
 2. Double click on the jar file named "Server_FloydAlmazar1.jar".
 
